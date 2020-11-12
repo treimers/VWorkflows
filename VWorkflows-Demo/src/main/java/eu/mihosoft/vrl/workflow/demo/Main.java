@@ -60,7 +60,7 @@ public class Main extends Application {
      *
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void runApp(String[] args) {
         launch(args);
     }
     private MainWindowFXMLController controller;
